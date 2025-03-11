@@ -1,0 +1,67 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #f8f9fa;
+    border: 1px solid #e7e7e7;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  /* Mobile Menu */
+  .navbar-toggle {
+    border: 1px solid #ddd;
+  }
+  
+  .navbar-toggle .icon-bar {
+    background-color: #888;
+  }
+  
+  .navbar-collapse {
+    background-color: #f8f9fa;
+    border: 1px solid #e7e7e7;
+  }
+  
+  .navbar-nav {
+    margin: 0 -15px;
+  }
+  
+  .navbar-nav li {
+    border-bottom: 1px solid #e7e7e7;
+  }
+  
+  .navbar-nav li a {
+    padding: 10px 15px;
+    color: #333;
+  }
+  
+  /* Page Heading */
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  /* Sections */
+  section {
+    background-color: #f8f9fa;
+    border: 1px solid #e7e7e7;
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 200px; /* Tall section for scrolling */
+  }
+  
+  section h3 {
+    margin-top: 0;
+  }
+  
+  /* Back to Top Link */
+  a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
